@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-^*^ddvxr!(4b6f2kz5!4h17vlqok=2^$+&jkscx51p!%+ox^o8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ 'django-cars-project.onrender.com' ]
 
 
 # Application definition
